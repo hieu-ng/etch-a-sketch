@@ -1,4 +1,4 @@
-const DEFAULT_CELLS = 256;
+const DEFAULT_CELLS = 16 * 16;
 const RGB = "0123456789abcdef";
 let gridSize = DEFAULT_CELLS;
 let setClear = false;
