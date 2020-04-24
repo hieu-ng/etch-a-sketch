@@ -44,3 +44,7 @@ img {
 .cell {
 	background: rgba(255, 255, 255, 0);
 }
+
+.heading {
+	color: black;
+}
